@@ -1,5 +1,5 @@
 ---
-layout: courses
+layout: outreach
 title: "Outreach"
 permalink: /outreach/
 description: "Our community engagement and outreach activities"
